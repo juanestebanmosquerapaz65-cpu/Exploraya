@@ -1,2 +1,2 @@
 # Exploraya
-levantamiento de requisitos de una empresa de viajes Exploraya (ACADEMICO)
+levantamiento de requisitos de una empresa de viajes Exploraya 
